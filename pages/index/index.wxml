@@ -1,0 +1,5 @@
+<!--pages/index/index.wxml-->
+<view class="container">
+  <image src="../../media/img/background.png"></image>
+
+</view>

@@ -1,0 +1,7 @@
+<!--pages/login/login.wxml-->
+<view class="container">
+  <image src='../media/img/background.png'></image>
+  <view class='up'>
+    我是一串字符串
+  </view>
+</view>
